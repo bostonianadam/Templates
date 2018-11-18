@@ -1,6 +1,6 @@
-# Project Title
+# Templates
 
-One Paragraph of project description goes here
+This is just a repository with some basic templates for easy quick access for all.
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Test](http://www.test.com) - Test
+* [Atom](https://atom.io/) - Atom editor
 
 ## Authors
 
