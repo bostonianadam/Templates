@@ -5,6 +5,7 @@ This is just a repository with some basic templates for easy quick access for al
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+--Placeholder--
 
 ### Prerequisites
 
@@ -19,6 +20,7 @@ A step by step series of examples that tell you how to get a development env run
 ## Deployment
 
 Add additional notes about how to deploy this on a live system
+--Placeholder--
 
 ## Built With
 
