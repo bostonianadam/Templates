@@ -25,10 +25,11 @@ Add additional notes about how to deploy this on a live system
 ## Built With
 
 * [Atom](https://atom.io/) - Atom editor
+* HTML
 
 ## Authors
 
-* **BostonianAdam**
+* BostonianAdam (https://twitter.com/bostonianadam)
 
 ## License
 
